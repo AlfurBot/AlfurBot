@@ -5,4 +5,4 @@ This account handles automated actions for LIT Devs.
 
 ## So what does it do?
 * [Uptime notifications](https://github.com/litdevs/upptime)
-* SaladBind DAG updates (until its discontinuation)
+* SaladBind DAG updates and PR welcome messages (until its discontinuation)

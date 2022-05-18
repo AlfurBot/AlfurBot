@@ -7,3 +7,4 @@ This account handles automated actions for LIT Devs.
 * [Uptime notifications](https://github.com/litdevs/upptime)
 * [Vukkybox](https://github.com/litdevs/vukkybox) Vukky database updates
 * SaladBind [DAG updates](https://github.com/LITdevs/SaladBind/blob/main/.github/workflows/dagsize.yml), [PR welcome messages](https://github.com/LITdevs/SaladBind/blob/main/.github/workflows/greetings.yml), and [releases](https://github.com/LITdevs/SaladBind/blob/main/.github/workflows/release.yml) (until its discontinuation)
+* [Documentation](https://github.com/litdevs/docs) deploying
